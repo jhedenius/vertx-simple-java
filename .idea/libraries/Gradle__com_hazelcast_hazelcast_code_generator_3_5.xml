@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.hazelcast:hazelcast-code-generator:3.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.hazelcast/hazelcast-code-generator/3.5/8710693b93dfa2aa7c2d62f6ca5f99c507f5dffa/hazelcast-code-generator-3.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.hazelcast/hazelcast-code-generator/3.5/abf396affe0fbfeae1ca6cc94b154ea3878e7188/hazelcast-code-generator-3.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

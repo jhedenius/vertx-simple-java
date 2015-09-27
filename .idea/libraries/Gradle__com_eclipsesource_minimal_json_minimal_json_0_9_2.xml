@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.eclipsesource.minimal-json:minimal-json:0.9.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.eclipsesource.minimal-json/minimal-json/0.9.2/10ea4f8e63ce8c3076a891af3c66a120ebc852aa/minimal-json-0.9.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.eclipsesource.minimal-json/minimal-json/0.9.2/16d13784c77119cf080797f11ff0d12a1b25c145/minimal-json-0.9.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
